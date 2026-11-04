@@ -12,6 +12,12 @@ From the project directory:
 dotnet run
 ```
 
+### Langues de l'interface
+
+Le sélecteur de langue permet d'afficher l'interface en wolof. Les cultures
+françaises `fr` et `fr-FR`, ainsi que les cultures anglaises existantes, restent
+prises en charge. La culture wolof utilisée est `wo-SN`.
+
 Application : boutique en ligne ASP.NET Core MVC (`P2FixAnAppDotNetCode`).
 
 Flux métier : liste des produits (`Product`) → panier (`Cart`/`CartLine`) →
