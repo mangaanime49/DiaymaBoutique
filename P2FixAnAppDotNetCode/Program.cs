@@ -1,5 +1,5 @@
-﻿using Microsoft.AspNetCore;
-using Microsoft.AspNetCore.Hosting;
+﻿using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace P2FixAnAppDotNetCode
 {
@@ -7,12 +7,14 @@ namespace P2FixAnAppDotNetCode
     {
         public static void Main(string[] args)
         {
-            BuildWebHost(args).Run();
-        }
+            var builder = WebApplication.CreateBuilder(args);
+            var startup = new Startup(builder.Configuration);
 
-        public static IWebHost BuildWebHost(string[] args) =>
-            WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Startup>()
-                .Build();
+            startup.ConfigureServices(builder.Services);
+
+            var app = builder.Build();
+            startup.Configure(app);
+            app.Run();
+        }
     }
 }
