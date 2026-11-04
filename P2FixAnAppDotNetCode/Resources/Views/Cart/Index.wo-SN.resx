@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <data name="Checkout" xml:space="preserve"><value>Jàll ci fey</value></data>
+  <data name="ContinueShopping" xml:space="preserve"><value>Kontine jënd</value></data>
+  <data name="Item" xml:space="preserve"><value>Mbënd mi</value></data>
+  <data name="Price" xml:space="preserve"><value>Njëg</value></data>
+  <data name="Quantity" xml:space="preserve"><value>Limu</value></data>
+  <data name="Remove" xml:space="preserve"><value>Dindi</value></data>
+  <data name="Subtotal" xml:space="preserve"><value>Tolluwaay bu njëkk</value></data>
+  <data name="Total" xml:space="preserve"><value>Tolluwaay</value></data>
+  <data name="YourCart" xml:space="preserve"><value>Sa mbuus</value></data>
+  <data name="Average" xml:space="preserve"><value>Diggante</value></data>
+</root>

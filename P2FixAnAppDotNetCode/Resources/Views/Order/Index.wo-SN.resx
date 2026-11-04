@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <data name="Adress" xml:space="preserve"><value>Màkkaan</value></data>
+  <data name="City" xml:space="preserve"><value>Dëkk</value></data>
+  <data name="CompleteOrder" xml:space="preserve"><value>Jeexal ndigal li</value></data>
+  <data name="Country" xml:space="preserve"><value>Réew</value></data>
+  <data name="EnterDetails" xml:space="preserve"><value>Bindal say benn-benn, dinañu yónnee li nga jënd ci gaaw !</value></data>
+  <data name="Location" xml:space="preserve"><value>Barab</value></data>
+  <data name="Name" xml:space="preserve"><value>Tur</value></data>
+  <data name="OrderTitle" xml:space="preserve"><value>Dugalal say xibaar ngir jeexal ndigal bi</value></data>
+  <data name="ShipSoon" xml:space="preserve"><value>Dinañu yónnee li nga jënd ci gaaw</value></data>
+  <data name="ShipTo" xml:space="preserve"><value>Yónnee ci</value></data>
+  <data name="Zip" xml:space="preserve"><value>Kodu poste</value></data>
+</root>
